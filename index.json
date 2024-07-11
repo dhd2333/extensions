@@ -1529,7 +1529,7 @@
     "lang": "all",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -1577,7 +1577,7 @@
     "lang": "all",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -1644,7 +1644,7 @@
     "lang": "all",
     "code": 24,
     "version": "1.4.24",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -1698,7 +1698,7 @@
     "lang": "all",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -2196,7 +2196,7 @@
     "lang": "all",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -2216,7 +2216,7 @@
     "lang": "all",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -2256,7 +2256,7 @@
     "lang": "all",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -2283,7 +2283,7 @@
     "lang": "all",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -3149,7 +3149,7 @@
     "lang": "all",
     "code": 7,
     "version": "1.4.7",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -3169,7 +3169,7 @@
     "lang": "all",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -3272,7 +3272,7 @@
     "lang": "all",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -3359,7 +3359,7 @@
     "lang": "all",
     "code": 57,
     "version": "1.4.57",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -3393,7 +3393,7 @@
     "lang": "all",
     "code": 17,
     "version": "1.4.17",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -3420,7 +3420,7 @@
     "lang": "all",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -3545,7 +3545,7 @@
     "lang": "all",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -3662,7 +3662,7 @@
     "lang": "all",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -4929,7 +4929,7 @@
     "lang": "all",
     "code": 51,
     "version": "1.4.51",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -5005,7 +5005,7 @@
     "lang": "all",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -5080,7 +5080,7 @@
     "lang": "all",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -5176,7 +5176,7 @@
     "lang": "all",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -5196,7 +5196,7 @@
     "lang": "all",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -5357,7 +5357,7 @@
     "lang": "all",
     "code": 34,
     "version": "1.4.34",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -5945,7 +5945,7 @@
     "lang": "all",
     "code": 20,
     "version": "1.4.20",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -6055,7 +6055,7 @@
     "lang": "all",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -6352,7 +6352,7 @@
     "lang": "all",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -6453,7 +6453,7 @@
     "lang": "all",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -6534,7 +6534,7 @@
     "lang": "all",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -6664,7 +6664,7 @@
     "lang": "all",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -6718,7 +6718,7 @@
     "lang": "all",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -6773,7 +6773,7 @@
     "lang": "all",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -6800,7 +6800,7 @@
     "lang": "all",
     "code": 7,
     "version": "1.4.7",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -6923,7 +6923,7 @@
     "lang": "all",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -6950,7 +6950,7 @@
     "lang": "all",
     "code": 41,
     "version": "1.4.41",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7012,7 +7012,7 @@
     "lang": "all",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7289,7 +7289,7 @@
     "lang": "all",
     "code": 13,
     "version": "1.4.13",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7424,7 +7424,7 @@
     "lang": "ar",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7444,7 +7444,7 @@
     "lang": "ar",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7464,7 +7464,7 @@
     "lang": "ar",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7484,7 +7484,7 @@
     "lang": "ar",
     "code": 43,
     "version": "1.4.43",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7504,7 +7504,7 @@
     "lang": "ar",
     "code": 33,
     "version": "1.4.33",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7544,7 +7544,7 @@
     "lang": "ar",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7564,7 +7564,7 @@
     "lang": "ar",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7584,7 +7584,7 @@
     "lang": "ar",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7624,7 +7624,7 @@
     "lang": "ar",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7644,7 +7644,7 @@
     "lang": "ar",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7684,7 +7684,7 @@
     "lang": "ar",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7704,7 +7704,7 @@
     "lang": "ar",
     "code": 33,
     "version": "1.4.33",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7724,7 +7724,7 @@
     "lang": "ar",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7744,7 +7744,7 @@
     "lang": "ar",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7764,7 +7764,7 @@
     "lang": "ar",
     "code": 13,
     "version": "1.4.13",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7784,7 +7784,7 @@
     "lang": "ar",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7804,7 +7804,7 @@
     "lang": "ar",
     "code": 33,
     "version": "1.4.33",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7824,7 +7824,7 @@
     "lang": "ar",
     "code": 43,
     "version": "1.4.43",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7844,7 +7844,7 @@
     "lang": "ar",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7864,7 +7864,7 @@
     "lang": "ar",
     "code": 40,
     "version": "1.4.40",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7884,7 +7884,7 @@
     "lang": "ar",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7904,7 +7904,7 @@
     "lang": "ar",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7924,7 +7924,7 @@
     "lang": "ar",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7944,7 +7944,7 @@
     "lang": "ar",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7964,7 +7964,7 @@
     "lang": "ar",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8004,7 +8004,7 @@
     "lang": "ar",
     "code": 42,
     "version": "1.4.42",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8024,7 +8024,7 @@
     "lang": "ar",
     "code": 43,
     "version": "1.4.43",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8044,7 +8044,7 @@
     "lang": "ar",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8064,7 +8064,7 @@
     "lang": "ar",
     "code": 48,
     "version": "1.4.48",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8084,7 +8084,7 @@
     "lang": "ar",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8104,7 +8104,7 @@
     "lang": "ar",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8124,7 +8124,7 @@
     "lang": "ar",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8164,7 +8164,7 @@
     "lang": "ar",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8184,7 +8184,7 @@
     "lang": "ar",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8204,7 +8204,7 @@
     "lang": "ar",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8224,7 +8224,7 @@
     "lang": "ar",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8244,7 +8244,7 @@
     "lang": "ar",
     "code": 11,
     "version": "1.4.11",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8264,7 +8264,7 @@
     "lang": "ar",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8284,7 +8284,7 @@
     "lang": "ar",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8304,7 +8304,7 @@
     "lang": "ar",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8324,7 +8324,7 @@
     "lang": "ar",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8344,7 +8344,7 @@
     "lang": "ar",
     "code": 17,
     "version": "1.4.17",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8364,7 +8364,7 @@
     "lang": "ar",
     "code": 33,
     "version": "1.4.33",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8384,7 +8384,7 @@
     "lang": "ar",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8444,7 +8444,7 @@
     "lang": "bg",
     "code": 12,
     "version": "1.4.12",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8464,7 +8464,7 @@
     "lang": "ca",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8524,7 +8524,7 @@
     "lang": "de",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8564,7 +8564,7 @@
     "lang": "de",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8604,7 +8604,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8624,7 +8624,7 @@
     "lang": "en",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8644,7 +8644,7 @@
     "lang": "en",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8684,7 +8684,7 @@
     "lang": "en",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8704,7 +8704,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8724,7 +8724,7 @@
     "lang": "en",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8744,7 +8744,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8764,7 +8764,7 @@
     "lang": "en",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8784,7 +8784,7 @@
     "lang": "en",
     "code": 45,
     "version": "1.4.45",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8804,7 +8804,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8824,7 +8824,7 @@
     "lang": "en",
     "code": 13,
     "version": "1.4.13",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8844,7 +8844,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8864,7 +8864,7 @@
     "lang": "en",
     "code": 33,
     "version": "1.4.33",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8884,7 +8884,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8904,7 +8904,7 @@
     "lang": "en",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8924,7 +8924,7 @@
     "lang": "en",
     "code": 15,
     "version": "1.4.15",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8944,7 +8944,7 @@
     "lang": "en",
     "code": 34,
     "version": "1.4.34",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8964,7 +8964,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -8984,7 +8984,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9004,7 +9004,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9024,7 +9024,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9044,7 +9044,7 @@
     "lang": "en",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9064,7 +9064,7 @@
     "lang": "en",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9104,7 +9104,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9144,7 +9144,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9164,7 +9164,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9184,7 +9184,7 @@
     "lang": "en",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9244,7 +9244,7 @@
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9264,7 +9264,7 @@
     "lang": "en",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9304,7 +9304,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9324,7 +9324,7 @@
     "lang": "en",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9384,7 +9384,7 @@
     "lang": "en",
     "code": 15,
     "version": "1.4.15",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9404,7 +9404,7 @@
     "lang": "en",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9444,7 +9444,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9504,7 +9504,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9564,7 +9564,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9584,7 +9584,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9604,7 +9604,7 @@
     "lang": "en",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9624,7 +9624,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9644,7 +9644,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9684,7 +9684,7 @@
     "lang": "en",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9724,7 +9724,7 @@
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9744,7 +9744,7 @@
     "lang": "en",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9764,7 +9764,7 @@
     "lang": "en",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9824,7 +9824,7 @@
     "lang": "en",
     "code": 40,
     "version": "1.4.40",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9844,7 +9844,7 @@
     "lang": "en",
     "code": 42,
     "version": "1.4.42",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9864,7 +9864,7 @@
     "lang": "en",
     "code": 24,
     "version": "1.4.24",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9912,7 +9912,7 @@
     "lang": "en",
     "code": 27,
     "version": "1.4.27",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -9992,7 +9992,7 @@
     "lang": "en",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10012,7 +10012,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10032,7 +10032,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10072,7 +10072,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10092,7 +10092,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10112,7 +10112,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10132,7 +10132,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10152,7 +10152,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10172,7 +10172,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10192,7 +10192,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10232,7 +10232,7 @@
     "lang": "en",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10252,7 +10252,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10312,7 +10312,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10332,7 +10332,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10352,7 +10352,7 @@
     "lang": "en",
     "code": 40,
     "version": "1.4.40",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10412,7 +10412,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10432,7 +10432,7 @@
     "lang": "en",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10492,7 +10492,7 @@
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10512,7 +10512,7 @@
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10532,7 +10532,7 @@
     "lang": "en",
     "code": 23,
     "version": "1.4.23",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10552,7 +10552,7 @@
     "lang": "en",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10592,7 +10592,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10612,7 +10612,7 @@
     "lang": "en",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10932,7 +10932,7 @@
     "lang": "en",
     "code": 8,
     "version": "1.4.8",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10992,7 +10992,7 @@
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11092,7 +11092,7 @@
     "lang": "en",
     "code": 42,
     "version": "1.4.42",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11112,7 +11112,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11172,7 +11172,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11232,7 +11232,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11252,7 +11252,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11272,7 +11272,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11292,7 +11292,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11392,7 +11392,7 @@
     "lang": "en",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11412,7 +11412,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11432,7 +11432,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11452,7 +11452,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11472,7 +11472,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11492,7 +11492,7 @@
     "lang": "en",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11532,7 +11532,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11552,7 +11552,7 @@
     "lang": "en",
     "code": 33,
     "version": "1.4.33",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11572,7 +11572,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11592,7 +11592,7 @@
     "lang": "en",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11612,7 +11612,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11632,7 +11632,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11652,7 +11652,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11732,7 +11732,7 @@
     "lang": "en",
     "code": 51,
     "version": "1.4.51",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11752,7 +11752,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11772,7 +11772,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11812,7 +11812,7 @@
     "lang": "en",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11852,7 +11852,7 @@
     "lang": "en",
     "code": 33,
     "version": "1.4.33",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11872,7 +11872,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11952,7 +11952,7 @@
     "lang": "en",
     "code": 8,
     "version": "1.4.8",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11972,7 +11972,7 @@
     "lang": "en",
     "code": 35,
     "version": "1.4.35",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11992,7 +11992,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12132,7 +12132,7 @@
     "lang": "en",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12152,7 +12152,7 @@
     "lang": "en",
     "code": 40,
     "version": "1.4.40",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12172,7 +12172,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12192,7 +12192,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12212,7 +12212,7 @@
     "lang": "en",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12252,7 +12252,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12272,7 +12272,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12332,7 +12332,7 @@
     "lang": "en",
     "code": 43,
     "version": "1.4.43",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12352,7 +12352,7 @@
     "lang": "en",
     "code": 40,
     "version": "1.4.40",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12432,7 +12432,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12452,7 +12452,7 @@
     "lang": "en",
     "code": 12,
     "version": "1.4.12",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12532,7 +12532,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12552,7 +12552,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12572,7 +12572,7 @@
     "lang": "en",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12592,7 +12592,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12672,7 +12672,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12712,7 +12712,7 @@
     "lang": "en",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12732,7 +12732,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12772,7 +12772,7 @@
     "lang": "en",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12792,7 +12792,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12832,7 +12832,7 @@
     "lang": "en",
     "code": 16,
     "version": "1.4.16",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12892,7 +12892,7 @@
     "lang": "en",
     "code": 19,
     "version": "1.4.19",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12992,7 +12992,7 @@
     "lang": "en",
     "code": 8,
     "version": "1.4.8",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13032,7 +13032,7 @@
     "lang": "en",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13052,7 +13052,7 @@
     "lang": "en",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13072,7 +13072,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13092,7 +13092,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13132,7 +13132,7 @@
     "lang": "en",
     "code": 41,
     "version": "1.4.41",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13152,7 +13152,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13172,7 +13172,7 @@
     "lang": "en",
     "code": 28,
     "version": "1.4.28",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13232,7 +13232,7 @@
     "lang": "en",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13312,7 +13312,7 @@
     "lang": "en",
     "code": 7,
     "version": "1.4.7",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13332,7 +13332,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13372,7 +13372,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13392,7 +13392,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13472,7 +13472,7 @@
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13539,7 +13539,7 @@
     "lang": "en",
     "code": 28,
     "version": "1.4.28",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13599,7 +13599,7 @@
     "lang": "en",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13719,7 +13719,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13759,7 +13759,7 @@
     "lang": "en",
     "code": 28,
     "version": "1.4.28",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13779,7 +13779,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13799,7 +13799,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13819,7 +13819,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13839,7 +13839,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13859,7 +13859,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13919,7 +13919,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13959,7 +13959,7 @@
     "lang": "en",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13979,7 +13979,7 @@
     "lang": "en",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13999,7 +13999,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14039,7 +14039,7 @@
     "lang": "en",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14059,7 +14059,7 @@
     "lang": "en",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14099,7 +14099,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14139,7 +14139,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14159,7 +14159,7 @@
     "lang": "en",
     "code": 7,
     "version": "1.4.7",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14179,7 +14179,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14199,7 +14199,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14219,7 +14219,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14239,7 +14239,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14259,7 +14259,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14279,7 +14279,7 @@
     "lang": "en",
     "code": 45,
     "version": "1.4.45",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14299,7 +14299,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14319,7 +14319,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14359,7 +14359,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14379,7 +14379,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14399,7 +14399,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14419,7 +14419,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14439,7 +14439,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14459,7 +14459,7 @@
     "lang": "en",
     "code": 42,
     "version": "1.4.42",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14479,7 +14479,7 @@
     "lang": "en",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14499,7 +14499,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14519,7 +14519,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14539,7 +14539,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14599,7 +14599,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14619,7 +14619,7 @@
     "lang": "en",
     "code": 42,
     "version": "1.4.42",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14639,7 +14639,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14659,7 +14659,7 @@
     "lang": "en",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14679,7 +14679,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14719,7 +14719,7 @@
     "lang": "en",
     "code": 41,
     "version": "1.4.41",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14739,7 +14739,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14819,7 +14819,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14879,7 +14879,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14899,7 +14899,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14939,7 +14939,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14959,7 +14959,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15119,7 +15119,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15139,7 +15139,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15239,7 +15239,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15319,7 +15319,7 @@
     "lang": "en",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15339,7 +15339,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15399,7 +15399,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15419,7 +15419,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15439,7 +15439,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15459,7 +15459,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15559,7 +15559,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15579,7 +15579,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15619,7 +15619,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15639,7 +15639,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15679,7 +15679,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15719,7 +15719,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15759,7 +15759,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15799,7 +15799,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15819,7 +15819,7 @@
     "lang": "en",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15839,7 +15839,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -15979,7 +15979,7 @@
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16059,7 +16059,7 @@
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16139,7 +16139,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16159,7 +16159,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16179,7 +16179,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16259,7 +16259,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16279,7 +16279,7 @@
     "lang": "en",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16299,7 +16299,7 @@
     "lang": "en",
     "code": 7,
     "version": "1.4.7",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16319,7 +16319,7 @@
     "lang": "en",
     "code": 8,
     "version": "1.4.8",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16339,7 +16339,7 @@
     "lang": "en",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16359,7 +16359,7 @@
     "lang": "en",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16379,7 +16379,7 @@
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16399,7 +16399,7 @@
     "lang": "en",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16419,7 +16419,7 @@
     "lang": "en",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16439,7 +16439,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16459,7 +16459,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16479,7 +16479,7 @@
     "lang": "en",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16499,7 +16499,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16519,7 +16519,7 @@
     "lang": "en",
     "code": 20,
     "version": "1.4.20",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16539,7 +16539,7 @@
     "lang": "en",
     "code": 11,
     "version": "1.4.11",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16579,7 +16579,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16599,7 +16599,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16619,7 +16619,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16639,7 +16639,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16659,7 +16659,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16679,7 +16679,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16699,7 +16699,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16719,7 +16719,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16739,7 +16739,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16759,7 +16759,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16779,7 +16779,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16799,7 +16799,7 @@
     "lang": "en",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16819,7 +16819,7 @@
     "lang": "en",
     "code": 8,
     "version": "1.4.8",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16859,7 +16859,7 @@
     "lang": "en",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16879,7 +16879,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16899,7 +16899,7 @@
     "lang": "en",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16919,7 +16919,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16939,7 +16939,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16959,7 +16959,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16979,7 +16979,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16999,7 +16999,7 @@
     "lang": "en",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17019,7 +17019,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17039,7 +17039,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17059,7 +17059,7 @@
     "lang": "en",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17079,7 +17079,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17099,7 +17099,7 @@
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17119,7 +17119,7 @@
     "lang": "en",
     "code": 49,
     "version": "1.4.49",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17139,7 +17139,7 @@
     "lang": "en",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17179,7 +17179,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17199,7 +17199,7 @@
     "lang": "en",
     "code": 34,
     "version": "1.4.34",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17219,7 +17219,7 @@
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17239,7 +17239,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17259,7 +17259,7 @@
     "lang": "en",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17279,7 +17279,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17299,7 +17299,7 @@
     "lang": "en",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17319,7 +17319,7 @@
     "lang": "en",
     "code": 12,
     "version": "1.4.12",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17339,7 +17339,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17359,7 +17359,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17379,7 +17379,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17399,7 +17399,7 @@
     "lang": "en",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17419,7 +17419,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17439,7 +17439,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17459,7 +17459,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17479,7 +17479,7 @@
     "lang": "en",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17519,7 +17519,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17539,7 +17539,7 @@
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17559,7 +17559,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17599,7 +17599,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17639,7 +17639,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17659,7 +17659,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17719,7 +17719,7 @@
     "lang": "en",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17739,7 +17739,7 @@
     "lang": "en",
     "code": 34,
     "version": "1.4.34",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17759,7 +17759,7 @@
     "lang": "en",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17799,7 +17799,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17819,7 +17819,7 @@
     "lang": "en",
     "code": 8,
     "version": "1.4.8",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17859,7 +17859,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17919,7 +17919,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17939,7 +17939,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17979,7 +17979,7 @@
     "lang": "en",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18039,7 +18039,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18219,7 +18219,7 @@
     "lang": "en",
     "code": 40,
     "version": "1.4.40",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18259,7 +18259,7 @@
     "lang": "en",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18299,7 +18299,7 @@
     "lang": "en",
     "code": 20,
     "version": "1.4.20",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18326,7 +18326,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18366,7 +18366,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18386,7 +18386,7 @@
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18406,7 +18406,7 @@
     "lang": "en",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18426,7 +18426,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18446,7 +18446,7 @@
     "lang": "en",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18546,7 +18546,7 @@
     "lang": "en",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18566,7 +18566,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18586,7 +18586,7 @@
     "lang": "en",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18606,7 +18606,7 @@
     "lang": "en",
     "code": 35,
     "version": "1.4.35",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18626,7 +18626,7 @@
     "lang": "en",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18766,7 +18766,7 @@
     "lang": "en",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18786,7 +18786,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18806,7 +18806,7 @@
     "lang": "en",
     "code": 7,
     "version": "1.4.7",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18906,7 +18906,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18946,7 +18946,7 @@
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18966,7 +18966,7 @@
     "lang": "es",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19066,7 +19066,7 @@
     "lang": "es",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19086,7 +19086,7 @@
     "lang": "es",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19106,7 +19106,7 @@
     "lang": "es",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19126,7 +19126,7 @@
     "lang": "es",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19166,7 +19166,7 @@
     "lang": "es",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19206,7 +19206,7 @@
     "lang": "es",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19226,7 +19226,7 @@
     "lang": "es",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19246,7 +19246,7 @@
     "lang": "es",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19266,7 +19266,7 @@
     "lang": "es",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19286,7 +19286,7 @@
     "lang": "es",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19386,7 +19386,7 @@
     "lang": "es",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19406,7 +19406,7 @@
     "lang": "es",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19426,7 +19426,7 @@
     "lang": "es",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19466,7 +19466,7 @@
     "lang": "es",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19506,7 +19506,7 @@
     "lang": "es",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19626,7 +19626,7 @@
     "lang": "es",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19646,7 +19646,7 @@
     "lang": "es",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19746,7 +19746,7 @@
     "lang": "es",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19766,7 +19766,7 @@
     "lang": "es",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19786,7 +19786,7 @@
     "lang": "es",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19806,7 +19806,7 @@
     "lang": "es",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19826,7 +19826,7 @@
     "lang": "es",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19846,7 +19846,7 @@
     "lang": "es",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19866,7 +19866,7 @@
     "lang": "es",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19926,7 +19926,7 @@
     "lang": "es",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -19986,7 +19986,7 @@
     "lang": "es",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20006,7 +20006,7 @@
     "lang": "es",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20026,7 +20026,7 @@
     "lang": "es",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20106,7 +20106,7 @@
     "lang": "es",
     "code": 46,
     "version": "1.4.46",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20126,7 +20126,7 @@
     "lang": "es",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20146,7 +20146,7 @@
     "lang": "es",
     "code": 41,
     "version": "1.4.41",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20266,7 +20266,7 @@
     "lang": "es",
     "code": 51,
     "version": "1.4.51",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20306,7 +20306,7 @@
     "lang": "es",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20326,7 +20326,7 @@
     "lang": "es",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20346,7 +20346,7 @@
     "lang": "es",
     "code": 43,
     "version": "1.4.43",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20426,7 +20426,7 @@
     "lang": "es",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20446,7 +20446,7 @@
     "lang": "es",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20466,7 +20466,7 @@
     "lang": "es",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20486,7 +20486,7 @@
     "lang": "es",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20506,7 +20506,7 @@
     "lang": "es",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20586,7 +20586,7 @@
     "lang": "es",
     "code": 40,
     "version": "1.4.40",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20606,7 +20606,7 @@
     "lang": "es",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20646,7 +20646,7 @@
     "lang": "es",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20666,7 +20666,7 @@
     "lang": "es",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20686,7 +20686,7 @@
     "lang": "es",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20706,7 +20706,7 @@
     "lang": "es",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20726,7 +20726,7 @@
     "lang": "es",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20746,7 +20746,7 @@
     "lang": "es",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20766,7 +20766,7 @@
     "lang": "es",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20786,7 +20786,7 @@
     "lang": "es",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20806,7 +20806,7 @@
     "lang": "es",
     "code": 40,
     "version": "1.4.40",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20826,7 +20826,7 @@
     "lang": "es",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20846,7 +20846,7 @@
     "lang": "es",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20866,7 +20866,7 @@
     "lang": "es",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20886,7 +20886,7 @@
     "lang": "es",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20926,7 +20926,7 @@
     "lang": "es",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21086,7 +21086,7 @@
     "lang": "es",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21186,7 +21186,7 @@
     "lang": "es",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21206,7 +21206,7 @@
     "lang": "es",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21273,7 +21273,7 @@
     "lang": "fr",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21313,7 +21313,7 @@
     "lang": "fr",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21333,7 +21333,7 @@
     "lang": "fr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21353,7 +21353,7 @@
     "lang": "fr",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21393,7 +21393,7 @@
     "lang": "fr",
     "code": 11,
     "version": "1.4.11",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21413,7 +21413,7 @@
     "lang": "fr",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21453,7 +21453,7 @@
     "lang": "fr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21473,7 +21473,7 @@
     "lang": "fr",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21493,7 +21493,7 @@
     "lang": "fr",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21513,7 +21513,7 @@
     "lang": "fr",
     "code": 42,
     "version": "1.4.42",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21533,7 +21533,7 @@
     "lang": "fr",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21653,7 +21653,7 @@
     "lang": "fr",
     "code": 48,
     "version": "1.4.48",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21673,7 +21673,7 @@
     "lang": "fr",
     "code": 13,
     "version": "1.4.13",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21693,7 +21693,7 @@
     "lang": "fr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21713,7 +21713,7 @@
     "lang": "fr",
     "code": 14,
     "version": "1.4.14",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21733,7 +21733,7 @@
     "lang": "fr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21793,7 +21793,7 @@
     "lang": "fr",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21813,7 +21813,7 @@
     "lang": "fr",
     "code": 15,
     "version": "1.4.15",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21833,7 +21833,7 @@
     "lang": "fr",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21873,7 +21873,7 @@
     "lang": "fr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21893,7 +21893,7 @@
     "lang": "fr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21913,7 +21913,7 @@
     "lang": "fr",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21933,7 +21933,7 @@
     "lang": "fr",
     "code": 24,
     "version": "1.4.24",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21953,7 +21953,7 @@
     "lang": "fr",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21973,7 +21973,7 @@
     "lang": "fr",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21993,7 +21993,7 @@
     "lang": "fr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22013,7 +22013,7 @@
     "lang": "fr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22033,7 +22033,7 @@
     "lang": "fr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22113,7 +22113,7 @@
     "lang": "fr",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22133,7 +22133,7 @@
     "lang": "fr",
     "code": 13,
     "version": "1.4.13",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22153,7 +22153,7 @@
     "lang": "fr",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22173,7 +22173,7 @@
     "lang": "fr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22193,7 +22193,7 @@
     "lang": "fr",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22213,7 +22213,7 @@
     "lang": "fr",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22233,7 +22233,7 @@
     "lang": "fr",
     "code": 41,
     "version": "1.4.41",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22253,7 +22253,7 @@
     "lang": "fr",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22273,7 +22273,7 @@
     "lang": "fr",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22313,7 +22313,7 @@
     "lang": "fr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22353,7 +22353,7 @@
     "lang": "id",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22373,7 +22373,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22393,7 +22393,7 @@
     "lang": "id",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22433,7 +22433,7 @@
     "lang": "id",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22453,7 +22453,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22473,7 +22473,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22493,7 +22493,7 @@
     "lang": "id",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22513,7 +22513,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22533,7 +22533,7 @@
     "lang": "id",
     "code": 33,
     "version": "1.4.33",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22633,7 +22633,7 @@
     "lang": "id",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22653,7 +22653,7 @@
     "lang": "id",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22713,7 +22713,7 @@
     "lang": "id",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22733,7 +22733,7 @@
     "lang": "id",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22773,7 +22773,7 @@
     "lang": "id",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22813,7 +22813,7 @@
     "lang": "id",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22833,7 +22833,7 @@
     "lang": "id",
     "code": 60,
     "version": "1.4.60",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22853,7 +22853,7 @@
     "lang": "id",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22873,7 +22873,7 @@
     "lang": "id",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22913,7 +22913,7 @@
     "lang": "id",
     "code": 11,
     "version": "1.4.11",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22933,7 +22933,7 @@
     "lang": "id",
     "code": 33,
     "version": "1.4.33",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22953,7 +22953,7 @@
     "lang": "id",
     "code": 13,
     "version": "1.4.13",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22993,7 +22993,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23013,7 +23013,7 @@
     "lang": "id",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23073,7 +23073,7 @@
     "lang": "id",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23093,7 +23093,7 @@
     "lang": "id",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23113,7 +23113,7 @@
     "lang": "id",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23153,7 +23153,7 @@
     "lang": "id",
     "code": 34,
     "version": "1.4.34",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23193,7 +23193,7 @@
     "lang": "id",
     "code": 18,
     "version": "1.4.18",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23213,7 +23213,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23233,7 +23233,7 @@
     "lang": "id",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23253,7 +23253,7 @@
     "lang": "id",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23313,7 +23313,7 @@
     "lang": "id",
     "code": 11,
     "version": "1.4.11",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23353,7 +23353,7 @@
     "lang": "id",
     "code": 12,
     "version": "1.4.12",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23373,7 +23373,7 @@
     "lang": "id",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23393,7 +23393,7 @@
     "lang": "id",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23413,7 +23413,7 @@
     "lang": "id",
     "code": 34,
     "version": "1.4.34",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23433,7 +23433,7 @@
     "lang": "id",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23453,7 +23453,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23493,7 +23493,7 @@
     "lang": "id",
     "code": 33,
     "version": "1.4.33",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23513,7 +23513,7 @@
     "lang": "id",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23533,7 +23533,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23553,7 +23553,7 @@
     "lang": "id",
     "code": 33,
     "version": "1.4.33",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23633,7 +23633,7 @@
     "lang": "id",
     "code": 35,
     "version": "1.4.35",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23653,7 +23653,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23673,7 +23673,7 @@
     "lang": "id",
     "code": 34,
     "version": "1.4.34",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23693,7 +23693,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23713,7 +23713,7 @@
     "lang": "id",
     "code": 50,
     "version": "1.4.50",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23753,7 +23753,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23793,7 +23793,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23813,7 +23813,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23833,7 +23833,7 @@
     "lang": "id",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23853,7 +23853,7 @@
     "lang": "id",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23873,7 +23873,7 @@
     "lang": "id",
     "code": 32,
     "version": "1.4.32",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23913,7 +23913,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23933,7 +23933,7 @@
     "lang": "id",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23973,7 +23973,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23993,7 +23993,7 @@
     "lang": "id",
     "code": 42,
     "version": "1.4.42",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24073,7 +24073,7 @@
     "lang": "id",
     "code": 27,
     "version": "1.4.27",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24093,7 +24093,7 @@
     "lang": "id",
     "code": 59,
     "version": "1.4.59",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24113,7 +24113,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24153,7 +24153,7 @@
     "lang": "id",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24173,7 +24173,7 @@
     "lang": "id",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24193,7 +24193,7 @@
     "lang": "id",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24213,7 +24213,7 @@
     "lang": "id",
     "code": 40,
     "version": "1.4.40",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24233,7 +24233,7 @@
     "lang": "id",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24253,7 +24253,7 @@
     "lang": "id",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24293,7 +24293,7 @@
     "lang": "id",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24313,7 +24313,7 @@
     "lang": "id",
     "code": 34,
     "version": "1.4.34",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24353,7 +24353,7 @@
     "lang": "id",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24373,7 +24373,7 @@
     "lang": "id",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24393,7 +24393,7 @@
     "lang": "it",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24413,7 +24413,7 @@
     "lang": "it",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24433,7 +24433,7 @@
     "lang": "it",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24473,7 +24473,7 @@
     "lang": "it",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24493,7 +24493,7 @@
     "lang": "it",
     "code": 8,
     "version": "1.4.8",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24533,7 +24533,7 @@
     "lang": "it",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24553,7 +24553,7 @@
     "lang": "it",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24573,7 +24573,7 @@
     "lang": "it",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24593,7 +24593,7 @@
     "lang": "it",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24633,7 +24633,7 @@
     "lang": "it",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24653,7 +24653,7 @@
     "lang": "it",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24673,7 +24673,7 @@
     "lang": "it",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24693,7 +24693,7 @@
     "lang": "ja",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24733,7 +24733,7 @@
     "lang": "ja",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24753,7 +24753,7 @@
     "lang": "ja",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24773,7 +24773,7 @@
     "lang": "ja",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24793,7 +24793,7 @@
     "lang": "ja",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24813,7 +24813,7 @@
     "lang": "ja",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24833,7 +24833,7 @@
     "lang": "ja",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24853,7 +24853,7 @@
     "lang": "ja",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24913,7 +24913,7 @@
     "lang": "ja",
     "code": 7,
     "version": "1.4.7",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24953,7 +24953,7 @@
     "lang": "ja",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24973,7 +24973,7 @@
     "lang": "ja",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -24993,7 +24993,7 @@
     "lang": "ja",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25013,7 +25013,7 @@
     "lang": "ja",
     "code": 11,
     "version": "1.4.11",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25053,7 +25053,7 @@
     "lang": "ja",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25073,7 +25073,7 @@
     "lang": "ja",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25093,7 +25093,7 @@
     "lang": "ja",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25133,7 +25133,7 @@
     "lang": "ja",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25173,7 +25173,7 @@
     "lang": "ja",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25233,7 +25233,7 @@
     "lang": "ja",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25253,7 +25253,7 @@
     "lang": "ja",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25293,7 +25293,7 @@
     "lang": "ja",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25313,7 +25313,7 @@
     "lang": "ja",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25373,7 +25373,7 @@
     "lang": "ja",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25513,7 +25513,7 @@
     "lang": "ja",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25533,7 +25533,7 @@
     "lang": "ja",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25553,7 +25553,7 @@
     "lang": "ja",
     "code": 7,
     "version": "1.4.7",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25573,7 +25573,7 @@
     "lang": "ja",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25593,7 +25593,7 @@
     "lang": "ja",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25613,7 +25613,7 @@
     "lang": "ja",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25633,7 +25633,7 @@
     "lang": "ja",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25653,7 +25653,7 @@
     "lang": "ja",
     "code": 8,
     "version": "1.4.8",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25800,7 +25800,7 @@
     "lang": "ko",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25881,7 +25881,7 @@
     "lang": "ko",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25901,7 +25901,7 @@
     "lang": "pl",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25961,7 +25961,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26001,7 +26001,7 @@
     "lang": "pt-BR",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26021,7 +26021,7 @@
     "lang": "pt-BR",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26041,7 +26041,7 @@
     "lang": "pt-BR",
     "code": 40,
     "version": "1.4.40",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26061,7 +26061,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26101,7 +26101,7 @@
     "lang": "pt-BR",
     "code": 23,
     "version": "1.4.23",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26121,7 +26121,7 @@
     "lang": "pt-BR",
     "code": 41,
     "version": "1.4.41",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26161,7 +26161,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26181,7 +26181,7 @@
     "lang": "pt-BR",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26241,7 +26241,7 @@
     "lang": "pt-BR",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26281,7 +26281,7 @@
     "lang": "pt-BR",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26361,7 +26361,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26381,7 +26381,7 @@
     "lang": "pt-BR",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26441,7 +26441,7 @@
     "lang": "pt-BR",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26461,7 +26461,7 @@
     "lang": "pt-BR",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26481,7 +26481,7 @@
     "lang": "pt-BR",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26521,7 +26521,7 @@
     "lang": "pt-BR",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26661,7 +26661,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26801,7 +26801,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26881,7 +26881,7 @@
     "lang": "pt-BR",
     "code": 7,
     "version": "1.4.7",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26961,7 +26961,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26981,7 +26981,7 @@
     "lang": "pt-BR",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27001,7 +27001,7 @@
     "lang": "pt-BR",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27021,7 +27021,7 @@
     "lang": "pt-BR",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27041,7 +27041,7 @@
     "lang": "pt-BR",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27061,7 +27061,7 @@
     "lang": "pt-BR",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27081,7 +27081,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27101,7 +27101,7 @@
     "lang": "pt-BR",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27241,7 +27241,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27261,7 +27261,7 @@
     "lang": "pt-BR",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27281,7 +27281,7 @@
     "lang": "pt-BR",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27341,7 +27341,7 @@
     "lang": "pt-BR",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27361,7 +27361,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27441,7 +27441,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27461,7 +27461,7 @@
     "lang": "pt-BR",
     "code": 24,
     "version": "1.4.24",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27481,7 +27481,7 @@
     "lang": "pt-BR",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27521,7 +27521,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27561,7 +27561,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27621,7 +27621,7 @@
     "lang": "pt-BR",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27641,7 +27641,7 @@
     "lang": "pt-BR",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27721,7 +27721,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27741,7 +27741,7 @@
     "lang": "pt-BR",
     "code": 40,
     "version": "1.4.40",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27861,7 +27861,7 @@
     "lang": "pt-BR",
     "code": 44,
     "version": "1.4.44",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27881,7 +27881,7 @@
     "lang": "pt-BR",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27901,7 +27901,7 @@
     "lang": "pt-BR",
     "code": 54,
     "version": "1.4.54",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27941,7 +27941,7 @@
     "lang": "pt-BR",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27961,7 +27961,7 @@
     "lang": "pt-BR",
     "code": 11,
     "version": "1.4.11",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28001,7 +28001,7 @@
     "lang": "pt-BR",
     "code": 47,
     "version": "1.4.47",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28041,7 +28041,7 @@
     "lang": "pt-BR",
     "code": 33,
     "version": "1.4.33",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28081,7 +28081,7 @@
     "lang": "pt-BR",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28101,7 +28101,7 @@
     "lang": "pt-BR",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28201,7 +28201,7 @@
     "lang": "pt-BR",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28241,7 +28241,7 @@
     "lang": "pt-BR",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28261,7 +28261,7 @@
     "lang": "pt-BR",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28321,7 +28321,7 @@
     "lang": "pt-BR",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28341,7 +28341,7 @@
     "lang": "pt-BR",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28361,7 +28361,7 @@
     "lang": "pt-BR",
     "code": 40,
     "version": "1.4.40",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28401,7 +28401,7 @@
     "lang": "pt-BR",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28481,7 +28481,7 @@
     "lang": "pt-BR",
     "code": 40,
     "version": "1.4.40",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28501,7 +28501,7 @@
     "lang": "pt-BR",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28561,7 +28561,7 @@
     "lang": "ru",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28581,7 +28581,7 @@
     "lang": "ru",
     "code": 29,
     "version": "1.4.29",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28601,7 +28601,7 @@
     "lang": "ru",
     "code": 24,
     "version": "1.4.24",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28661,7 +28661,7 @@
     "lang": "ru",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28681,7 +28681,7 @@
     "lang": "ru",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28701,7 +28701,7 @@
     "lang": "ru",
     "code": 17,
     "version": "1.4.17",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28721,7 +28721,7 @@
     "lang": "ru",
     "code": 12,
     "version": "1.4.12",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28761,7 +28761,7 @@
     "lang": "ru",
     "code": 102,
     "version": "1.4.102",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28881,7 +28881,7 @@
     "lang": "ru",
     "code": 19,
     "version": "1.4.19",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28921,7 +28921,7 @@
     "lang": "ru",
     "code": 69,
     "version": "1.4.69",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28941,7 +28941,7 @@
     "lang": "ru",
     "code": 24,
     "version": "1.4.24",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28961,7 +28961,7 @@
     "lang": "ru",
     "code": 45,
     "version": "1.4.45",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29001,7 +29001,7 @@
     "lang": "ru",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29021,7 +29021,7 @@
     "lang": "ru",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29041,7 +29041,7 @@
     "lang": "ru",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29141,7 +29141,7 @@
     "lang": "th",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29181,7 +29181,7 @@
     "lang": "th",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29281,7 +29281,7 @@
     "lang": "th",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29381,7 +29381,7 @@
     "lang": "th",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29441,7 +29441,7 @@
     "lang": "th",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29481,7 +29481,7 @@
     "lang": "th",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29521,7 +29521,7 @@
     "lang": "th",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29541,7 +29541,7 @@
     "lang": "th",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29601,7 +29601,7 @@
     "lang": "th",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29721,7 +29721,7 @@
     "lang": "tr",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29741,7 +29741,7 @@
     "lang": "tr",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29761,7 +29761,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29801,7 +29801,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29821,7 +29821,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29841,7 +29841,7 @@
     "lang": "tr",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29881,7 +29881,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29901,7 +29901,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29921,7 +29921,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29941,7 +29941,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29961,7 +29961,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -29981,7 +29981,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30001,7 +30001,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30021,7 +30021,7 @@
     "lang": "tr",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30061,7 +30061,7 @@
     "lang": "tr",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30101,7 +30101,7 @@
     "lang": "tr",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30121,7 +30121,7 @@
     "lang": "tr",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30141,7 +30141,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30161,7 +30161,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30181,7 +30181,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30201,7 +30201,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30221,7 +30221,7 @@
     "lang": "tr",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30261,7 +30261,7 @@
     "lang": "tr",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30361,7 +30361,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30421,7 +30421,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30481,7 +30481,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30541,7 +30541,7 @@
     "lang": "tr",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30561,7 +30561,7 @@
     "lang": "tr",
     "code": 31,
     "version": "1.4.31",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30581,7 +30581,7 @@
     "lang": "tr",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30601,7 +30601,7 @@
     "lang": "tr",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30621,7 +30621,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30641,7 +30641,7 @@
     "lang": "tr",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30661,7 +30661,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30681,7 +30681,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30701,7 +30701,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30761,7 +30761,7 @@
     "lang": "tr",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30801,7 +30801,7 @@
     "lang": "tr",
     "code": 12,
     "version": "1.4.12",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30821,7 +30821,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30841,7 +30841,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30861,7 +30861,7 @@
     "lang": "tr",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30901,7 +30901,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31001,7 +31001,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31061,7 +31061,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31121,7 +31121,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31141,7 +31141,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31161,7 +31161,7 @@
     "lang": "tr",
     "code": 38,
     "version": "1.4.38",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31181,7 +31181,7 @@
     "lang": "tr",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31221,7 +31221,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31241,7 +31241,7 @@
     "lang": "tr",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31261,7 +31261,7 @@
     "lang": "tr",
     "code": 9,
     "version": "1.4.9",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31281,7 +31281,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31341,7 +31341,7 @@
     "lang": "tr",
     "code": 33,
     "version": "1.4.33",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31361,7 +31361,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31401,7 +31401,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31421,7 +31421,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31461,7 +31461,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31481,7 +31481,7 @@
     "lang": "tr",
     "code": 36,
     "version": "1.4.36",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31501,7 +31501,7 @@
     "lang": "tr",
     "code": 37,
     "version": "1.4.37",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31521,7 +31521,7 @@
     "lang": "tr",
     "code": 39,
     "version": "1.4.39",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31621,7 +31621,7 @@
     "lang": "tr",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31681,7 +31681,7 @@
     "lang": "vi",
     "code": 18,
     "version": "1.4.18",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31701,7 +31701,7 @@
     "lang": "vi",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31721,7 +31721,7 @@
     "lang": "vi",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31861,7 +31861,7 @@
     "lang": "vi",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31881,7 +31881,7 @@
     "lang": "vi",
     "code": 7,
     "version": "1.4.7",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31901,7 +31901,7 @@
     "lang": "vi",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31921,7 +31921,7 @@
     "lang": "vi",
     "code": 23,
     "version": "1.4.23",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -31941,7 +31941,7 @@
     "lang": "vi",
     "code": 7,
     "version": "1.4.7",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32061,7 +32061,7 @@
     "lang": "vi",
     "code": 14,
     "version": "1.4.14",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32201,7 +32201,7 @@
     "lang": "zh",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32241,7 +32241,7 @@
     "lang": "zh",
     "code": 22,
     "version": "1.4.22",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32261,7 +32261,7 @@
     "lang": "zh",
     "code": 30,
     "version": "1.4.30",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32281,7 +32281,7 @@
     "lang": "zh",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32301,7 +32301,7 @@
     "lang": "zh-Hans",
     "code": 11,
     "version": "1.4.11",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32361,7 +32361,7 @@
     "lang": "zh",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32441,7 +32441,7 @@
     "lang": "zh",
     "code": 42,
     "version": "1.4.42",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32461,7 +32461,7 @@
     "lang": "zh",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32501,7 +32501,7 @@
     "lang": "zh",
     "code": 18,
     "version": "1.4.18",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32541,7 +32541,7 @@
     "lang": "zh",
     "code": 11,
     "version": "1.4.11",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32561,7 +32561,7 @@
     "lang": "zh",
     "code": 2,
     "version": "1.4.2",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32621,7 +32621,7 @@
     "lang": "zh",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32641,7 +32641,7 @@
     "lang": "zh",
     "code": 8,
     "version": "1.4.8",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32661,7 +32661,7 @@
     "lang": "zh",
     "code": 6,
     "version": "1.4.6",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32701,7 +32701,7 @@
     "lang": "zh",
     "code": 20,
     "version": "1.4.20",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32721,7 +32721,7 @@
     "lang": "zh",
     "code": 15,
     "version": "1.4.15",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32761,7 +32761,7 @@
     "lang": "zh",
     "code": 7,
     "version": "1.4.7",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32801,7 +32801,7 @@
     "lang": "zh",
     "code": 18,
     "version": "1.4.18",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32841,7 +32841,7 @@
     "lang": "zh",
     "code": 13,
     "version": "1.4.13",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32881,7 +32881,7 @@
     "lang": "zh",
     "code": 10,
     "version": "1.4.10",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32901,7 +32901,7 @@
     "lang": "zh",
     "code": 7,
     "version": "1.4.7",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32921,7 +32921,7 @@
     "lang": "zh",
     "code": 3,
     "version": "1.4.3",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -32941,7 +32941,7 @@
     "lang": "zh",
     "code": 4,
     "version": "1.4.4",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -33001,7 +33001,7 @@
     "lang": "zh",
     "code": 18,
     "version": "1.4.18",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
