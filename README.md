@@ -1,3 +1,4 @@
+nsfw-available in tachimanga
 ### Please give the repo a :star:
 
 | Build | Support Server |
