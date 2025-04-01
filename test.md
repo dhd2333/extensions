@@ -1,5 +1,5 @@
-计算电子扩散电流密度 $ J_{D,e} $：
-我们使用公式 $ J_{D,e} = e D_e \frac{dn}{dx} $。
+计算电子扩散电流密度  J_{D,e} ：
+我们使用公式  J_{D,e} = e D_e \frac{dn}{dx} 。
 代入数值：
 $ J_{D,e} = (1.602 \times 10^{-19} , \text{C}) \times (34 , \text{cm}^2/\text{s}) \times (-2.0 \times 10^{21} , \text{cm}^{-4}) $
 $ J_{D,e} = - (1.602 \times 34 \times 2.0) \times 10^{-19 + 21} , \text{C} \cdot \text{cm}^{-2} \cdot \text{s}^{-1} $
