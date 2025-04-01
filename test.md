@@ -1,3 +1,11 @@
+计算电子扩散电流密度 $ J_{D,e} $：
+我们使用公式 $ J_{D,e} = e D_e \frac{dn}{dx} $。
+代入数值：
+$ J_{D,e} = (1.602 \times 10^{-19} , \text{C}) \times (34 , \text{cm}^2/\text{s}) \times (-2.0 \times 10^{21} , \text{cm}^{-4}) $
+$ J_{D,e} = - (1.602 \times 34 \times 2.0) \times 10^{-19 + 21} , \text{C} \cdot \text{cm}^{-2} \cdot \text{s}^{-1} $
+$ J_{D,e} = -108.936 \times 10^{2} , \text{A/cm}^2 $
+$ J_{D,e} = -10893.6 , \text{A/cm}^2 $
+$ J_{D,e} \approx -1.09 \times 10^4 , \text{A/cm}^2 $
 好的，我们来详细地用中文讲解这份PPT。这份PPT涵盖了固体物理中关于电子结构和晶格振动的核心内容，特别是针对半导体。
 
 **整体介绍 (幻灯片 1)**
