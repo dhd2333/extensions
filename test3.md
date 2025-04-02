@@ -1,4 +1,4 @@
-Okay, let's solve this step-by-step.
+![download](https://github.com/user-attachments/assets/8b93cf86-9a6f-46c4-9871-5a2dc5a0b6f3)
 
 **Part a)**
 
